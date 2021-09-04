@@ -1,0 +1,1 @@
+C:\Users\Nero\IdeaProjects\kotlin-localization\processor\build\classes\kotlin\main\github\nwn\kotlin\localization\processor\LocaleSchemaProducer$Companion.class;C:\Users\Nero\IdeaProjects\kotlin-localization\processor\build\classes\kotlin\main\github\nwn\kotlin\localization\processor\LocaleSchemaProducer.class

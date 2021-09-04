@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="github.nwn.kotlin.localization.SpanStringTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-28T19:13:29" hostname="MEGUMIN" time="0.06">
+  <properties/>
+  <testcase name="Argument Tag Format Style[jvm]" classname="github.nwn.kotlin.localization.SpanStringTests" time="0.06"/>
+  <system-out><![CDATA[[Raw(value=raw string ), Argument(index=0, defaultValue=cow, formatType=, formatStyle=), Raw(value= ), Argument(index=1, defaultValue=, formatType=currency, formatStyle=$#.##)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

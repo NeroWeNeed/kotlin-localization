@@ -1,0 +1,1 @@
+C:\Users\Nero\IdeaProjects\kotlin-localization\sample\build\classes\kotlin\main\github\nwn\kotlin\localization\samples\SampleLocalizationModel.class
